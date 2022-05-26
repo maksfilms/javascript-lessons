@@ -95,6 +95,8 @@ const bestSts = students.reduce((acc,el) => {
     return acc
 }, [] )
 
+console.log(bestSts)
+
 
 
 const str = students.reduce((acc, el) => {
