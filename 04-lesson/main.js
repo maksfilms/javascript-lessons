@@ -1,5 +1,3 @@
-
-
 // массив объектов
 
 const todoListID_1 = '45sdf-sdfs' // v1()
